@@ -3,39 +3,28 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:2C5364,100:00F7FF&text=Harinivas%20M&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+%2B+AI+Engineer;Building+Scalable+ML+Systems;AWS+%7C+FastAPI+%7C+Docker;Production-Ready+AI+Deployments" />
+  <a href="https://github.com/harinivas04">
+    <img src="https://komarev.com/ghpvc/?username=harinivas04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harinivas-m-504ab7250/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:harinivas987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+%2B+AI+Engineer;Building+Scalable+ML+Systems;AWS+%7C+FastAPI+%7C+Docker;Production-Ready+AI+Deployments" />
 </p>
 
 ---
 
 ## 🚀 Professional Identity
 
-I design and deploy **scalable AI systems on cloud infrastructure**.
-
-My focus is not just training models —  
-but building **production-ready ML pipelines, ETL workflows, and real-time AI applications on AWS.**
-
-🎓 B.Tech AI & ML (2022–2026)  
-📍 Sri Shakthi Institute of Engineering and Technology  
-📊 CGPA: 7.81  
+I am Harinivas M, a Final Year B.Tech student specializing in **Artificial Intelligence and Machine Learning** . I build and deploy scalable AI solutions on cloud infrastructure, focusing not only on model development but on creating **production-ready ML pipelines, automated ETL workflows, and real-time AI systems on AWS**.
 
 ---
 
 ## ☁ Cloud & Infrastructure Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,linux,git" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,kubernetes,linux,git" />
 </p>
 
 ### 🔹 AWS Services Experience
@@ -64,7 +53,6 @@ Core Areas:
 - LLM & Generative AI Integration
 
 ---
-
 ## 🏗 Featured Cloud + AI Projects
 
 <details>
@@ -95,7 +83,6 @@ Data → ETL → Snowflake → ML Model → EC2 → API → Chatbot
 </details>
 
 ---
-
 <details>
 <summary><b>🌍 Landmark Detection Using Machine Learning</b></summary>
 
@@ -110,7 +97,7 @@ Data → ETL → Snowflake → ML Model → EC2 → API → Chatbot
 ## 🏆 AWS Learning & Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Quest_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Quest_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Educate_Cloud_101-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Educate_Compute-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Educate_Storage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -119,11 +106,9 @@ Data → ETL → Snowflake → ML Model → EC2 → API → Chatbot
 
 ---
 
-## 📊 GitHub Engineering Activity
-
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harinivas04&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinivas04&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=harinivas04&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -139,14 +124,12 @@ Data → ETL → Snowflake → ML Model → EC2 → API → Chatbot
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harinivas-m-504ab7250">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/harinivas-m-504ab7250/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:harinivas987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=120&section=footer"/>
-</p>
+
