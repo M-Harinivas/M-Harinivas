@@ -3,15 +3,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:2C5364,100:00F7FF&text=Harinivas%20M&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
+<h2 align="center">☁ Cloud + AI Engineer | Production ML Systems | AWS Focused</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+%2B+AI+Engineer;Building+Scalable+ML+Systems;AWS+%7C+FastAPI+%7C+Docker;Production-Ready+AI+Deployments" />
+</p>
+
 <p align="center">
   <a href="https://github.com/harinivas04">
     <img src="https://komarev.com/ghpvc/?username=harinivas04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+%2B+AI+Engineer;Building+Scalable+ML+Systems;AWS+%7C+FastAPI+%7C+Docker;Production-Ready+AI+Deployments" />
-</p>
+
 
 ---
 
