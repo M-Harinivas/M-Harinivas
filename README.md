@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/harinivas04">
-    <img src="https://komarev.com/ghpvc/?username=harinivas04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/M-Harinivas">
+    <img src="https://komarev.com/ghpvc/?username=M-Harinivas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
@@ -112,7 +112,7 @@ Data → ETL → Snowflake → ML Model → EC2 → API → Chatbot
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=harinivas04&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=M-Harinivas&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
