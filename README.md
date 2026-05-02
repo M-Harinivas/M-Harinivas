@@ -9,21 +9,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+%2B+AI+Engineer;Building+Scalable+ML+Systems;AWS+%7C+FastAPI+%7C+Docker;Production-Ready+AI+Deployments" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/M-Harinivas">
-    <img src="https://komarev.com/ghpvc/?username=M-Harinivas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
-
-
 ---
 
 ## 🚀 Professional Identity
 
-I am Harinivas M, a Final Year B.Tech student specializing in **Artificial Intelligence and Machine Learning** . I build and deploy scalable AI solutions on cloud infrastructure, focusing not only on model development but on creating **production-ready ML pipelines, automated ETL workflows, and real-time AI systems on AWS**.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+I am 𝐇𝐚𝐫𝐢𝐧𝐢𝐯𝐚𝐬 𝐌 — an 𝐀𝐈 & 𝐌𝐋 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 at 𝐂𝐡𝐚𝐫𝐭𝐞𝐫𝐞𝐝𝐖𝐚𝐲𝐬 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐋𝐢𝐦𝐢𝐭𝐞𝐝, where I design and deploy intelligent systems that solve real-world problems at scale.
+<br></br>
+My work sits at the intersection of machine learning engineering, cloud infrastructure, and data pipelines — I don't just build models, I build the systems that make models *work in production*: automated ETL workflows, real-time inference APIs, and cloud-native ML architectures on AWS.
+<br></br>
+With a background in 𝐁.𝐓𝐞𝐜𝐡 — 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 & 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 and hands-on industry experience as an 𝐒𝐃𝐄 (𝐀𝐈 & 𝐌𝐋) 𝐈𝐧𝐭𝐞𝐫𝐧, I bring both academic depth and production-grade engineering to every problem I tackle.
+
+<br></br>
+
+**What drives me:**
+- 🔬 Turning raw data into reliable, deployed intelligence
+- ⚙️ Engineering pipelines that are robust, observable, and maintainable
+- ☁️ Leveraging cloud infrastructure to make AI systems scalable by design
+- 🤝 Bridging the gap between research and real-world deployment
 
 ---
+## 💼 Experience
+ 
+| Role | Company | Type | Status |
+|---|---|---|---|
+| 🤖 **AI & ML Engineer** | CharteredWays Private Service Limited | Full-Time | 🟢 Current |
+| 👨‍💻 **SDE — AI & ML** | SDX Partners | Internship | ✅ Completed |
 
 ## ☁ Cloud & Infrastructure Stack
 
